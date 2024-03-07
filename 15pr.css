@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(255, 249, 243);
+}
+.w{
+    background-color: rgba(148, 92, 54, 0.7);
+    margin-top: none;
+    margin: auto;
+    text-align: center;
+    color: azure;
+    padding: 20px;
+    position: sticky;
+    z-index: 1;
+    top: 0px;
+    font-size: calc(12px + 1vw);
+}
+img{
+    width: calc(70px + 15vh);
+    margin-right: 2vh;
+    float: left;
+}
+.block{
+    font-size: calc(13px + 0.5vw);
+    margin: 5vh;
+    margin-top: 2vh;    
+    display: inline-table;
+}
+a{
+    color: azure;
+    text-decoration: none;
+}   
+header{
+    text-align: center;
+}
